@@ -1,0 +1,9 @@
+{
+  "name": "ILikeToBeAnnoyed",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "Makes the tamed wolves howl once more. How annoying is that! This mod was a request by Unforgiven_0_ a.k.a Ilias#7350",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
